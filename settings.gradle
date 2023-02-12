@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'bil481'
-include ':app'
+include('app')
